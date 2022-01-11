@@ -7,8 +7,12 @@
 ![manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ### Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=wesleych3n&show_icons=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleych3n&hide=Jupyter%20notebook,html&layout=compact&langs_count=8" height="180"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyCh3n&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyCh3n&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyCh3n&theme=nord_dark)
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=wesleych3n&show_icons=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleych3n&hide=Jupyter%20notebook,html&layout=compact&langs_count=8" height="180"/>
 **WesleyCh3n/WesleyCh3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
