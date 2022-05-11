@@ -25,7 +25,7 @@
 - 🌱 Currently learning Rust 🦀
 - 📫 How to reach me: [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
 
-### ✨ My stats
+### ✨ My Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyCh3n&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyCh3n&theme=gruvbox)
