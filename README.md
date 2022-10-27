@@ -23,7 +23,7 @@
 - 💻 Most of the time working on terminal.
 - 📝 A VIM/NVIM user ~= 3 yrs.
 - 🌱 Currently learning Rust 🦀
-- 📫 How to reach me: [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
+- 📫 How to reach me: [![GMail](https://img.shields.io/badge/GMail-gray?logo=Gmail&logoColor=red)](mailto:wesley.ch3n.0530@gmail.com) [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
 
 ### ✨ My Stats
 
