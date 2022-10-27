@@ -30,5 +30,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyCh3n&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyCh3n&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyCh3n&theme=gruvbox)
-![](https://github-profile-trophy.vercel.app/?username=WesleyCh3n&theme=gruvbox&row=1&column=6)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=WesleyCh3n&theme=gruvbox&row=1&column=6) -->
 ---
