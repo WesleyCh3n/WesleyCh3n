@@ -21,7 +21,7 @@
 - 🧑‍💻 A full-time programmer.
 - ✨ Specialize in Machine Learning/Machine Vision/Full Stack Development.
 - 💻 Most of the time working on terminal.
-- 📝 A VIM/NVIM user ~= 3 yrs.
+- ⚡️ A full-time Noevim(**blazingly fast**) user.
 - 🌱 Currently learning Rust 🦀
 - 📫 How to reach me: [![GMail](https://img.shields.io/badge/GMail-gray?logo=Gmail&logoColor=red)](mailto:wesley.ch3n.0530@gmail.com) [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
 
