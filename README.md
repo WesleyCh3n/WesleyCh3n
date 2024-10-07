@@ -18,12 +18,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🧑‍💻 A full-time programmer.
-- ✨ Specialize in Machine Vision / Deep Learning / IoT Development.
-- 💻 Most of the time working on the terminal.
-- ⚡️ A full-time Noevim user.
-- 🌱 C++ / Python / Rust / Golang.
-- 📫 How to reach me: [![GMail](https://img.shields.io/badge/GMail-gray?logo=Gmail&logoColor=red)](mailto:wesley.ch3n.0530@gmail.com) [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
+- A full-time programmer.
+- Specialize in Computer Vision / Machine Learning / Data Analytics.
+- Live in the terminal.
+- Noevim user.
+- C++ / Python / Rust / Golang / Typescript.
+- How to reach me: [![GMail](https://img.shields.io/badge/GMail-gray?logo=Gmail&logoColor=red)](mailto:wesley.ch3n.0530@gmail.com) [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
 
 ### ✨ My Stats
 
