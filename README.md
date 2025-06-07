@@ -18,9 +18,8 @@
 
 ### 🧑‍💻 About Me
 
-- A full-time programmer.
-- Specialize in Computer Vision / Machine Learning / Data Analytics.
-- Noevim user.
+- Computer Vision / Machine Learning / Data Analytics.
+- Noevim user. ([dotfiles](https://github.com/WesleyCh3n/dotfiles))
 - C++ / Python / Rust / Golang / Typescript.
 - How to reach me: [![GMail](https://img.shields.io/badge/GMail-gray?logo=Gmail&logoColor=red)](mailto:wesley.ch3n.0530@gmail.com) [![WesleyCh3n](https://img.shields.io/badge/WesleyCh3n-blue?logo=LinkedIn)](https://www.linkedin.com/in/wesleych3n)
 
